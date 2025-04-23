@@ -14,7 +14,7 @@ st.set_page_config(
 st.title("📜 StudyPal Application")
 
 # API Details
-API_ENDPOINT = "http://http://127.0.0.1:8000/ask"
+API_ENDPOINT = "http://127.0.0.1:8000/ask"
 providers = ["Groq", "Ollama"]
 models = ["llama 3.3", "deepseek R1"]
 
